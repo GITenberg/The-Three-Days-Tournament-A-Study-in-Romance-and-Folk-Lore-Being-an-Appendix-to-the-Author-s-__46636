@@ -1,9 +1,8 @@
 _repo: The-Three-Days-Tournament-A-Study-in-Romance-and-Folk-Lore-Being-an-Appendix-to-the-Author-s-__46636
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46636/46636-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46636-h/images/cover.jpg
 creator:
   author:
     agent_name: Weston, Jessie L. (Jessie Laidlay)
@@ -14,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1384
     wikipedia: http://en.wikipedia.org/wiki/Jessie_Weston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46636#The-Three-Days-Tournament-A-Study-in-Romance-and-Folk-Lore-Being-an-Appendix-to-the-Author-s-_
 gutenberg_issued: '2014-08-20'
 gutenberg_type: Text
 identifiers:
